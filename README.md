@@ -3,10 +3,10 @@ UITextField realtime currency formatter - format while typing
 
 ##How to use
 - Download or clone this repository
-- Copy the 'BBRealTimeCurrencyFormatter' folder to your project
-- Import the 'BBRealTimeCurrencyFormatter.h' file into your controller.m 
-- Implement the 'UITextFieldDelegate' method 'textField:shouldChangeCharactersInRange:replacementString:'
-- Implement the 'BBRealTimeCurrencyFormatter' method 'textField:shouldChangeCharactersInRange:replacementString:'
+- Copy the `BBRealTimeCurrencyFormatter` folder to your project
+- Import the `BBRealTimeCurrencyFormatter.h` file into your controller.m 
+- Implement the `UITextFieldDelegate` method `textField:shouldChangeCharactersInRange:replacementString:`
+- Implement the `BBRealTimeCurrencyFormatter` method `textField:shouldChangeCharactersInRange:replacementString:`
 - Done!
 
 ##Example
