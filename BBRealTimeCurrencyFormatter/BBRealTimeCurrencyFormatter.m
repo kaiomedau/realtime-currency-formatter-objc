@@ -42,7 +42,7 @@
     
     //Convert it to currency
     NSNumberFormatter *numberFormatter = [[NSNumberFormatter alloc] init];
-    [numberFormatter setLocale:[NSLocale currentLocale]];
+    [numberFormatter setLocale:locale];
     [numberFormatter setNumberStyle:NSNumberFormatterCurrencyStyle]; //Set currency style
     [numberFormatter setMultiplier:[NSNumber numberWithFloat:.01]];  //Ensure cents calculation
     [numberFormatter setDecimalSeparator:[locale objectForKey:NSLocaleDecimalSeparator]];
