@@ -1,5 +1,6 @@
-# realtime-currency-formatter-objc
-UITextField realtime currency formatter - format while typing
+# Realtime Currency Formatter - objc
+An extremely simple class made with Objective-C for formatting currencies.
+Ready to work with the `UITextFieldDelegate` and format currencies while typing.
 
 ##How to use
 - Download or clone this repository
