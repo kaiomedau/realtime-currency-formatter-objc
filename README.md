@@ -2,10 +2,11 @@
 <h1>Objective-C Realtime Currency Formatter</h1>
 </p>
 
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+
 An extremely simple Objective-C class for formatting currencies.
 Ready to work with the `UITextFieldDelegate` and format currencies while typing.
 
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 ## How to use
 - Download or clone this repository
@@ -41,6 +42,8 @@ Ready to work with the `UITextFieldDelegate` and format currencies while typing.
     [BBRealTimeCurrencyFormatter textField:textField shouldChangeCharactersInRange:range replacementString:string];
     return NO;
 }
+
+@end
 ```
 
 ## License
