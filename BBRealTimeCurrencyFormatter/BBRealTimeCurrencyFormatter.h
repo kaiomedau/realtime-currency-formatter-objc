@@ -2,8 +2,8 @@
 //  BBRealTimeCurrencyFormatter.h
 //  currencyformatter
 //
-//  Created by Comediante on 12/15/16.
-//  Copyright © 2016 Kaio Medau (https://github.com/kaiomedau). All rights reserved.
+//  Created by Kaio Medau on 12/15/16.
+//  Copyright © 2016 Kaio Medau <https://github.com/kaiomedau> All rights reserved.
 //
 
 #import <Foundation/Foundation.h>

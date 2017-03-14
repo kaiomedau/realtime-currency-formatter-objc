@@ -23,9 +23,9 @@
 }
 
 - (BOOL)textField:(UITextField *)textField shouldChangeCharactersInRange:(NSRange)range replacementString:(NSString *)string{
-    
+
     [BBRealTimeCurrencyFormatter textField:textField shouldChangeCharactersInRange:range replacementString:string];
-    
+
     return NO;
 }
 
